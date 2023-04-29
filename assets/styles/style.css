@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    width: 40px !important;
+}
+.redes img{
+    height: 3rem;
+}
+.card{
+    width: 18rem!important;
+    background-color: rgb(195, 195, 253);
+}
+.card img{
+    height: 12rem;
+    object-fit: cover;
+}
+main{
+    background-color: rgb(72, 72, 72);
+}
+label{
+    color: white;
+}
+.fielsetwit input{
+    width: 2rem;
+}
+.detail{
+    height: 100vh;
+}
+.maindetail{
+    width: 100%;
+}
+.row{
+    padding: 5rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.formcontact{
+    height: 60vh;
+    width: 100vw;
+    padding: 5rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.formcontact input{
+    width: 50%;
+}
+.submit{
+    padding: 1rem!important;
+    width: 30%!important;
+}
+.formcontact>input, label{
+    padding: 1rem!important;
+}
+table, tr, th, td{
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgb(195, 195, 253);
+}
+table{
+    padding: 5rem;
+    width: 80%;
+    
+}
+td{
+    padding: 1rem;
+}
+
+.containtables>h2{
+    color: white!important;
+}
